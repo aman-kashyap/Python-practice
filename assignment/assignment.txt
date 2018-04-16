@@ -1,0 +1,21 @@
+write a class Account to store a/c id, a/c name, email, mobile, balance
+inherit saving acc and currentacc classes from account saving a/c contains chequebookno and interest rate
+currentacc contains username and pin number add calcinterest method in both classes
+in saving a/c interest=balance*interest rate
+in current a/c interest=balance+100
+Acclist=[]{}
+
+Acclist.append({a/cno :{a/cno:111,name:'kishori',mobile:11111,email:'',}})
+
+Add setter and getter methods
+
+Display menu
+1.  Add account
+2.  Delete account
+3.  Deposite
+4.  Withdraw
+5.  Transferfund
+6.  check balance
+7.  exit
+
+    if user select exit then write entire in file
